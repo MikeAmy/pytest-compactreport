@@ -1,0 +1,10 @@
+site_name: pytest-compactreport
+site_description: Groups pytest failure reports for more compact report
+site_author: Michael Amy
+
+theme: readthedocs
+
+repo_url: https://github.com/MikeAmy/pytest-compactreport
+
+pages:
+- Home: index.md
